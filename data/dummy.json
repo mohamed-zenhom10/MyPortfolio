@@ -1,0 +1,137 @@
+[
+  {
+    "img": "../imgs/projects/ecommerce-react.png",
+    "name": "E-commerce",
+    "desc":"A modern e-commerce platform to browse, discover, and purchase products",
+    "tools": [
+      "React JS",
+      "CSS3"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/React-Projects/tree/main/E-commerce",
+    "live-demo": "https://eg-ecommerce.netlify.app/"
+  },
+  {
+    "img": "../imgs/projects/travel-js.png",
+    "name": "Animated Travel Website",
+    "desc": "A travel landing page to explore destinations and discover inspiring journeys around the world.",
+    "tools": [
+      "HTML5",
+      "CSS3",
+      "JavaScript(ES6)"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/JavaScript-Projects/tree/main/Travel%20Website"
+  },
+  {
+    "img": "../imgs/projects/cruds-js.png",
+    "name": "CRUDS",
+    "desc": "A simple CRUD operations platform to create, read, update, and manage data efficiently.",
+    "tools": [
+      "HTML5",
+      "CSS3",
+      "JavaScript(ES6) + (OOP)"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/JavaScript-Projects/tree/main/CRUDS%20APP",
+    "live-demo": "https://cruds-operations-app.netlify.app/"
+  },
+  {
+    "img": "../imgs/projects/saas-tailwind.png",
+    "name": "SaaS Landing Page",
+    "desc": "A modern SaaS landing page to showcase your product and highlight its features with clarity and impact.",
+    "tools": [
+      "HTML5",
+      "TailwindCSS",
+      "JavaScript"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/TailwindCSS-Projects/tree/main/Landing%20Page"
+  },
+  {
+    "img": "../imgs/projects/landing-bootstrap.png",
+    "name": "Landing Page",
+    "desc": "A dynamic blog platform to explore the latest insights, trends, and stories from a growing community.",
+    "tools": [
+      "HTML5",
+      "CSS3",
+      "Bootstrap 5"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/Bootstrap-Projects/tree/main/Landing%20Page"
+  },
+  {
+    "img": "../imgs/projects/real-estat-bootstrap.png",
+    "name": "Real Estate",
+    "desc": "A modern real estate landing page to showcase properties, explore listings, and connect with buyers and sellers.",
+    "tools": [
+      "HTML5",
+      "CSS3",
+      "Bootstrap 5"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/Bootstrap-Projects/tree/main/Real%20Estate"
+  },
+  {
+    "img": "../imgs/projects/to-do-react.png",
+    "name": "To Do List",
+    "desc": "A simple and intuitive to-do list app to organize tasks, boost productivity, and stay on top of your day.",
+    "tools": [
+      "React JS",
+      "CSS3"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/React-Projects/tree/main/ToDo%20List%20App"
+  },
+  {
+    "img": "../imgs/projects/marketing-tailwind.png",
+    "name": "Marketing Agency",
+    "desc": "A modern and responsive marketing agency landing page designed to showcase services, attract clients, and drive conversions through clean design.",
+    "tools": [
+      "HTML5",
+      "TailwindCSS",
+      "JavaScript"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/TailwindCSS-Projects/tree/main/Marketing%20Agency%20Landing%20Page",
+    "live-demo": "https://marketing-agencty-page.netlify.app/"
+  },
+  {
+    "img": "../imgs/projects/prayer-react.png",
+    "name": "Egyptian Prayer Times",
+    "desc": "A simple and responsive Egyptian prayer times app that shows daily prayer schedules with an easy and clean user interface.",
+    "tools": [
+      "React JS",
+      "CSS3"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/React-Projects/tree/main/Prayer%20Times",
+    "live-demo": "https://egyptian-prayer-times-app.netlify.app/"
+  },
+  {
+    "img": "../imgs/projects/quiz-js.png",
+    "name": "Advanced Quiz App",
+    "desc": "An advanced quiz app that offers interactive questions, real-time scoring, and a smooth user experience with a clean and responsive design.",
+    "tools": [
+      "HTML5",
+      "CSS3",
+      "JavaScript(ES6)"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/JavaScript-Projects/tree/main/Advanced%20Quiz%20App",
+    "live-demo": "https://advanced-quiz-app.netlify.app/"
+  },
+  {
+    "img": "../imgs/projects/weather-js.png",
+    "name": "Weather App",
+    "desc": "A simple weather app that shows current weather and forecasts based on the selected city, with a clean and easy-to-use interface.",
+    "tools": [
+      "HTML5",
+      "CSS3",
+      "JavaScript(ES6)"
+    ],
+    "github": "https://github.com/mohamed-zenhom10/JavaScript-Projects/tree/main/Weather%20App",
+    "live-demo": "https://eg-weather-app.netlify.app/"
+  },{
+    "img":"../imgs/projects/saas.png",
+    "name":"SaaS CRM",
+    "desc":"A modern Customer Relationship Management (CRM) platform built for freelancers and small businesses to efficiently manage clients, projects, tasks, and invoices from a single dashboard.",
+    "tools":[
+      "React JS",
+      "Express JS",
+      "Node JS",
+      "MongoDB"
+    ],
+    "github":"https://github.com/mohamed-zenhom10/SaaS-CRM"
+  }
+]
